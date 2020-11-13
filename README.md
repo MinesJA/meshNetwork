@@ -14,3 +14,5 @@ The Mesh Network software is released under the NASA Open Source Agreement Versi
 ### Python dependencies
 pyserial
 crcmod
+
+https://software.nasa.gov/software/MFS-33391-1
